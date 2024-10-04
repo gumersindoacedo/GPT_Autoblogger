@@ -28,5 +28,7 @@ You no longer have to change the script, simply change the config.json file to f
 
 The content comes out in a weird format, but you can easily use another script to format all of the content properly. You can use format.py (which uses OpenAI 0.28, so you'll have to install that version first) to do this en masse.
 
+** not sure if this can work fully ever**
+
 
 
